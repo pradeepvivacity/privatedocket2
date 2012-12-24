@@ -1,0 +1,18 @@
+/* =========================== IE8 fixes =========================== */
+
+.outer_wrapper_contact {
+	width: 50%;
+	left: 25%;
+}
+
+section#content {
+	color: #000;
+}
+
+.contact {
+	color: #000;
+}
+
+.twitter_ticker {
+	color: #000;
+}
